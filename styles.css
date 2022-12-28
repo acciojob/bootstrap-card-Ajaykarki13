@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 body{
-    padding: 10px;
+    padding: 20px;
 }
 .container
 {
@@ -9,8 +9,9 @@ body{
 }
 .card1,.card2
 {
-    height: 450px!important;
+    height: 500px!important;
 }
 .card img{
     height:fit-content;
 }
+
