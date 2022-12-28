@@ -7,3 +7,10 @@ body{
 {
     margin-left:0px !important;
 }
+.card1,.card2
+{
+    height: 450px!important;
+}
+.card img{
+    height:fit-content;
+}
